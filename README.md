@@ -4,7 +4,7 @@ helloing worldsing
 Nothing rhymes with Matt, except cat, fat and BillBat.  Nothing else, this is true.
 This is a second line, named Blue.
 
-## Serious codes:
+## Serious codes _python_:
 ```python
 import sys
 
@@ -23,7 +23,7 @@ def rave_music_while_coding(coding_bool=True):
     sysexit(0)
 ```
 
-## Not-so-Serious codes:
+## Not-so-Serious codes _powershell_:
 ```powershell
 function blast_rave_music_FULL_VOLUME() {
   volume = ("15%", "baby is sleeping")
